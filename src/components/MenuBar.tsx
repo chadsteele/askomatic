@@ -34,7 +34,7 @@ export default function () {
 							component="div"
 							sx={{ flexGrow: 1 }}
 						>
-							{" "}
+							<Logo />
 							Dr.AskOMatic
 						</Typography>
 
