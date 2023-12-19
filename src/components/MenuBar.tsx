@@ -15,7 +15,7 @@ function Logo() {
 				position: "relative",
 				top: ".2em",
 			}}
-			src="/assets/anima.logo.png"
+			src="/src/assets/anima.logo.png"
 		/>
 	)
 }
