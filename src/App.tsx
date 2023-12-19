@@ -25,8 +25,8 @@ export default function App() {
 			<p>
 				If you're struggling to say something interesting,{" "}
 				<a
-					href="https://www.youtube.com/watch?v=ltNhwj-F7c8"
-					target="goodwill"
+					href="https://www.youtube.com/watch?v=nlni04mpDdg"
+					target="youtube"
 				>
 					play a video in another tab
 				</a>{" "}
