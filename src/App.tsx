@@ -22,6 +22,16 @@ export default function App() {
 			<MenuBar />
 			<ChatGpt />
 			<Listener />
+			<p>
+				If you're struggling to say something interesting,{" "}
+				<a
+					href="https://www.youtube.com/watch?v=ltNhwj-F7c8"
+					target="goodwill"
+				>
+					play a video in another tab
+				</a>{" "}
+				and turn up the volume.
+			</p>
 			<Waveform />
 			<HireMe />
 		</>
