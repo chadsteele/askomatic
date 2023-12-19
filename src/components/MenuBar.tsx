@@ -6,6 +6,7 @@ import PauseIcon from "@suid/icons-material/PauseCircle"
 import Button from "@suid/material/Button"
 import { Show, createSignal, onMount, createEffect } from "solid-js"
 import { ListenButton } from "./Listener"
+import logo from "../assets/anima.logo.png"
 
 function Logo() {
 	return (
@@ -15,7 +16,7 @@ function Logo() {
 				position: "relative",
 				top: ".2em",
 			}}
-			src="/src/assets/anima.logo.png"
+			src={logo}
 		/>
 	)
 }
