@@ -25,7 +25,7 @@ export default function App() {
 			<p>
 				If you're struggling to say something interesting,{" "}
 				<a
-					href="https://www.youtube.com/watch?v=nlni04mpDdg"
+					href="https://www.youtube.com/watch?v=wGWVKkYEHBE"
 					target="youtube"
 				>
 					play a video in another tab
